@@ -20,8 +20,9 @@ This project is a responsive blog layout built using **Bootstrap 5** via CDN. It
 - Web browser (for testing)
 
 ## 📁 Structure
-
-index.html # Main HTML file with Bootstrap layout
+MyBlogSite-
+   ->Images # All images for blogs
+   ->index.html # Main HTML file with Bootstrap layout
 screenshots # Output view
 README.md # Project description and overview
 
